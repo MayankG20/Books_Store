@@ -9,7 +9,7 @@ Django Project
   
     3) cd mysite
   
-    4) . dja/bin/activate    (for activating virtual environment)
+    4) . dja/bin/activate    (for activating virtual environment)(for deactivation virtual environment type deactivate dja/)
     5) python3 manage.py runserver
     6) Paste the link http://127.0.0.1:8000/books in your browser
   
